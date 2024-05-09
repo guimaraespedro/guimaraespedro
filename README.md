@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Pedro Ferreira Guimaraes
-- 👀 I’m interested in .NET, Microservices, Javascript, React and Cloud services such as AWS and Azure
-- 🌱 I’m currently learning more about design patterns, C# and .NET Core
+👋 Hello! I'm Pedro Ferreira Guimarães.
+👀 As a Developer, I possess a diverse skill set encompassing various technologies. However, my core expertise lies in .NET Core, MVC, Javascript, React, and Azure.
+🌱 Currently, I'm honing my skills in software architecture and design.
+
 
 
 <!---

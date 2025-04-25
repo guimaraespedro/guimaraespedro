@@ -1,10 +1,13 @@
 
 Software developer, mainly working with javascript/typescript.
 
+⚽
 I love to play soccer, but I don't have a knee anymore
 
+🐈‍⬛
 I also have a cat
 
+🎮
 Sometimes I play online games
 
 <!---
